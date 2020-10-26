@@ -1,0 +1,71 @@
+Python Installation Python 3.6.8
+	IDLE3.6.8
+
+www.python.org 
+
+Installation Process:
+
+Download .exe File
+
+Git Hub Link :https://github.com/SatheeshMatampalli/Django_Batch8
+
+Python Default location is :
+C:\Users\lenovo\AppData\Local\Programs\Python\Python36
+
+
+Today Agenda:
+=============
+
+Python OOPS Concepts
+- Class
+- Object
+- Constructor
+- Inheritance
+
+Class: Collection of variables and method
+
+Diff B/w Function and Method?
+
+Function : Collection of statements.Functions uses are reusable of code
+
+Method : function inside class
+
+syntax: class class_name(Hello):
+        	var
+		methods
+* First letter should ba a Capital.
+
+Object : - Instances of class
+	- Blue print of Class
+	- Syntax: objName = ClassName
+	- Ex : G = Hello
+
+OOP Vs POP
+
+oop: 
+- Program is divided into objects
+- make use of access Modifiers - Private,Public,protectd
+- More Secure
+- it support inhetitance
+
+pop:
+- in pop id divided into functions
+- Doesn't Access Modifiers
+- not supoort inheritance
+
+- What is Constructor?
+  - Special Method (__init__)
+
+Inheritance:
+	- Acquring properties of one class to another 
+- Syntax : 
+
+   class subClassName(paerntclass1,[parentclass2,parentclass3,......]):
+	Func
+   Class_suite
+
+
+
+
+
+
