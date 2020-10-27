@@ -1,5 +1,7 @@
 # Django_Batch8
 
+### Telegram Group Link: https://t.me/django_8
+
 ### Day1(26-10-2020) 
 - Object oriented concepts
 - Class
