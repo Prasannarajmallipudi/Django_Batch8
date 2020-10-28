@@ -15,8 +15,16 @@
 - Packages
 - Modules
 
+### Day3(28-10-2020)
+- Introduction to Django
+- MVC & MVT 
+- Installation of Django
+- Project Creation
+  - App Creation
+
 
 ## Recorded Videos
 ### Day1 [video link](https://transcripts.gotomeeting.com/#/s/c5195e4f17c198aec4fcaf06b7a18889efc6ee9312b5be07618574d5b369eb4a)
 ### Day2 [video link](https://transcripts.gotomeeting.com/#/s/9db94630fee43f4eb5ddeb1a7c32f1ab3efae01da8bb1058f135a09b3f35d124)
+### Day3 [video link]()
 
