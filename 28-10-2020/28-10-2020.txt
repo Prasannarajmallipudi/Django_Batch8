@@ -1,0 +1,58 @@
+Today Agenda:
+============
+- Introduction to Django
+- MVC & MVT 
+- Installation of Django
+- Project Creation
+
+Django Frame Work:
+-It is using for developing web 		 applications
+- Django is free and open source
+- Django includes all necessary features by default.
+Python Frame Works:
+==================
+- Bottle
+- Django
+- Flask 
+- Cheerypy
+
+
+
+Frame Work:
+- Frame Work is collection of modules and packages.
+- FrontEnd - HTML,css,javaScript,Boostrap
+- MiddleWare : DataBase --> Sqlite3,mysql,Postgresql,mangodb,SQL,Oracle
+- Backend : Python,java,PHP,c++,....
+
+MVC(Model View Controller):
+In this mvc we cansplit lagrge program into su programs. 
+
+Model: I Can write a logic for Data Base Connections
+View: It can handle all HTML files 
+Controller : Main Logic from controlling both Model and Views
+
+
+
+MVT(Model View Template):
+
+Model : I can write a logic for data base connections
+View : It will works like a Controller(main Logic)
+Template : in template we will store all .HTML files
+
+Installation of Django:
+
+- In CMD to type pip
+- And After open CMD type: pip install django
+- check version : django-admin --version
+- cmd : python >>>import django                 	       >>>django.get_version()
+
+Project Creation:
+- In Particular Folder: open CMD --> django-admin startproject DemoProject(Projectname)
+- cd DemoProject(Projectname)
+Run Project:
+- python manage.py runserver (Default 8000 port is workig)
+- python manage.py runserver 2422 (User defined Port)
+- To break the server "CTRL+C"
+
+
+
