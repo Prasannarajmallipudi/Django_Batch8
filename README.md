@@ -8,6 +8,7 @@
 - Object
 - Inheritances
 
+
 ### Day2(27-10-2020)
 - Inheritances
   - Multiple
